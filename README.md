@@ -1,6 +1,8 @@
 # SSR-TA
 
-This is the code for the "SSR-TA: Sequence to Sequence based expert recurrent recommendation for ticket automation"
+This is the code for the "SSR-TA: Sequence to Sequence based expert recurrent recommendation for ticket automation" and baselines.
+
+pygcn https://github.com/tkipf/pygcn was used for implement the baseline DeepRouting.
 
 Pre-request
 
